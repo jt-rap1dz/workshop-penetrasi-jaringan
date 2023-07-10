@@ -32,5 +32,5 @@
 <br>
 
 ## Laporan
-![Screenshot](0.png)
+![Screenshot](images/0.png)
 
